@@ -31,4 +31,3 @@ Ein erstes C-Program sieht so aus:
   
   return 0;
   }
-  
