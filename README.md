@@ -1,4 +1,4 @@
-# Labor 3AHME Gruppe: 1
+# Labor 3AHME Gruppe 1
 **Datum:** 15.10.2018
 
 In dieser Laborübung
